@@ -32,3 +32,7 @@ Matrix operator*(const Matrix& a, const Matrix& b) {
     }
     return result;
 }
+
+
+void by_value(Matrix m)         { std::cout << "inside: " << &m << "\n"; }
+void by_ref(const Matrix& m)    { std::cout << "inside: " << &m << "\n"; }
