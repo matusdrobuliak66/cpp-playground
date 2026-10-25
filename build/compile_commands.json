@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/Users/matusdrobuliak/Projects/cpp-playground/build",
+  "command": "/usr/bin/c++   -std=gnu++17 -arch arm64 -Wall -Wextra -o CMakeFiles/00_setup.dir/00_setup/hello.cpp.o -c /Users/matusdrobuliak/Projects/cpp-playground/src/00_setup/hello.cpp",
+  "file": "/Users/matusdrobuliak/Projects/cpp-playground/src/00_setup/hello.cpp",
+  "output": "CMakeFiles/00_setup.dir/00_setup/hello.cpp.o"
+},
+{
+  "directory": "/Users/matusdrobuliak/Projects/cpp-playground/build",
+  "command": "/usr/bin/c++   -std=gnu++17 -arch arm64 -Wall -Wextra -o CMakeFiles/01_headers_linking.dir/01_headers_linking/main.cpp.o -c /Users/matusdrobuliak/Projects/cpp-playground/src/01_headers_linking/main.cpp",
+  "file": "/Users/matusdrobuliak/Projects/cpp-playground/src/01_headers_linking/main.cpp",
+  "output": "CMakeFiles/01_headers_linking.dir/01_headers_linking/main.cpp.o"
+},
+{
+  "directory": "/Users/matusdrobuliak/Projects/cpp-playground/build",
+  "command": "/usr/bin/c++   -std=gnu++17 -arch arm64 -Wall -Wextra -o CMakeFiles/01_headers_linking.dir/01_headers_linking/mathutils.cpp.o -c /Users/matusdrobuliak/Projects/cpp-playground/src/01_headers_linking/mathutils.cpp",
+  "file": "/Users/matusdrobuliak/Projects/cpp-playground/src/01_headers_linking/mathutils.cpp",
+  "output": "CMakeFiles/01_headers_linking.dir/01_headers_linking/mathutils.cpp.o"
+},
+{
+  "directory": "/Users/matusdrobuliak/Projects/cpp-playground/build",
+  "command": "/usr/bin/c++   -std=gnu++17 -arch arm64 -Wall -Wextra -o CMakeFiles/02_static_types.dir/02_static_types/main.cpp.o -c /Users/matusdrobuliak/Projects/cpp-playground/src/02_static_types/main.cpp",
+  "file": "/Users/matusdrobuliak/Projects/cpp-playground/src/02_static_types/main.cpp",
+  "output": "CMakeFiles/02_static_types.dir/02_static_types/main.cpp.o"
+},
+{
+  "directory": "/Users/matusdrobuliak/Projects/cpp-playground/build",
+  "command": "/usr/bin/c++   -std=gnu++17 -arch arm64 -Wall -Wextra -o CMakeFiles/03_stack_heap.dir/03_stack_heap/main.cpp.o -c /Users/matusdrobuliak/Projects/cpp-playground/src/03_stack_heap/main.cpp",
+  "file": "/Users/matusdrobuliak/Projects/cpp-playground/src/03_stack_heap/main.cpp",
+  "output": "CMakeFiles/03_stack_heap.dir/03_stack_heap/main.cpp.o"
+}
+]

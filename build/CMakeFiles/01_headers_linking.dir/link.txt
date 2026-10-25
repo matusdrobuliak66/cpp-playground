@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/01_headers_linking.dir/01_headers_linking/main.cpp.o CMakeFiles/01_headers_linking.dir/01_headers_linking/mathutils.cpp.o -o 01_headers_linking

@@ -1,0 +1,6 @@
+/Users/matusdrobuliak/Projects/cpp-playground/build/CMakeFiles/00_setup.dir
+/Users/matusdrobuliak/Projects/cpp-playground/build/CMakeFiles/01_headers_linking.dir
+/Users/matusdrobuliak/Projects/cpp-playground/build/CMakeFiles/02_static_types.dir
+/Users/matusdrobuliak/Projects/cpp-playground/build/CMakeFiles/03_stack_heap.dir
+/Users/matusdrobuliak/Projects/cpp-playground/build/CMakeFiles/edit_cache.dir
+/Users/matusdrobuliak/Projects/cpp-playground/build/CMakeFiles/rebuild_cache.dir
