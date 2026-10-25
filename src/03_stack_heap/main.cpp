@@ -12,6 +12,6 @@ int main() {
     b.at(0, 0) = 10; b.at(0, 1) = 20;
     b.at(1, 0) = 30; b.at(1, 1) = 40;
 
-    Matrix c = a + b;
+    Matrix c = a * b;
     c.print();
 }

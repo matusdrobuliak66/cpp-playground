@@ -16,3 +16,5 @@ struct Matrix {
 };
 
 Matrix operator+(const Matrix& a, const Matrix& b);
+
+Matrix operator*(const Matrix& a, const Matrix& b);
