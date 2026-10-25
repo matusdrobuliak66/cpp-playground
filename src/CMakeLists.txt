@@ -17,7 +17,7 @@ add_executable(01_headers_linking
 target_compile_options(01_headers_linking PRIVATE -Wall -Wextra)
 
 # 02 - Static Types
-add_executable(02_static_types 02_static_types/main.cpp)
+add_executable(02_static_types 02_static_types/main.cpp 02_static_types/converter.cpp)
 target_compile_options(02_static_types PRIVATE -Wall -Wextra)
 
 # 03 - Stack and Heap

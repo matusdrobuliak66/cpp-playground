@@ -1,7 +1,19 @@
 #include <iostream>
+#include <stdexcept>
+#include <string>
+#include "converter.h"
 
-// TODO: Unit converter CLI (C++ 02 - Static Types)
+int main(int argc, char* argv[]) {
+    if (argc != 3) {
+        std::cerr << "usage: convert <value> <unit>\n";
+        return 1;
+    }
 
-int main() {
-    std::cout << "02_static_types\n";
+    try {
+        double value = std::stod(argv[1]);
+        std::cout << convert(value, argv[2]) << "\n";
+    } catch (const std::exception& e) {
+        std::cerr << "error: " << e.what() << "\n";
+        return 1;
+    }
 }
