@@ -21,5 +21,5 @@ add_executable(02_static_types 02_static_types/main.cpp 02_static_types/converte
 target_compile_options(02_static_types PRIVATE -Wall -Wextra)
 
 # 03 - Stack and Heap
-add_executable(03_stack_heap 03_stack_heap/main.cpp)
+add_executable(03_stack_heap 03_stack_heap/main.cpp 03_stack_heap/matrix.cpp)
 target_compile_options(03_stack_heap PRIVATE -Wall -Wextra)
